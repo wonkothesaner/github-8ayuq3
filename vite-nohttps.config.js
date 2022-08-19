@@ -5,7 +5,7 @@ import mkcert from 'vite-plugin-mkcert'
 const config = {
     plugins: [sveltekit()],
     server: {
-        //https: true
+        https://github.com/wonkothesaner/github-8ayuq3.git
     }
 };
 
